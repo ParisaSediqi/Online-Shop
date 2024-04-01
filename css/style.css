@@ -451,4 +451,7 @@ footer{
 .about-heading{
     font-size: 3rem;
 }
+       .about-btn{
+        left:40%
+    }
 }

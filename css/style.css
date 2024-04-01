@@ -410,6 +410,9 @@ footer{
         clip-path: polygon(0 0, 100% 0, 100% 0,0 0);
 
     }
+    .about-btn{
+        left:40%
+    }
     .products-card .card-heading{
         font-size: 3rem;
     }

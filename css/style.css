@@ -127,7 +127,7 @@ section{
     padding: 1.5rem;
     line-height: 1.5;
     font-size: 1.5rem;
-    color:#777;
+    color:black;
 }
 
 .home .content h3{
@@ -290,7 +290,7 @@ line-height: 21px;
 margin: 8px 0;
 }
 .products-card .box-container .box1  p{
-    color: #777;
+    color: black;
     font-size: 15px;
     line-height: 1.8;
 }
@@ -298,7 +298,7 @@ margin: 8px 0;
     margin-top: 10px;
     display: inline-block;
     background: linear-gradient(to right,#4961b3 , #c6c1cc);
-    color: #ccc;
+    color: white;
     padding: 8px 15px;
     padding-bottom: 10px;
     border-radius: 5px;
@@ -335,6 +335,7 @@ margin: 8px 0;
     box-shadow: 0 .5rem 1.5rem rgba(0,0,0,.1);
     border-radius: .5rem;
     position: relative;
+    margin: 10px 10px 10px 10px;
 }
 .review .box-container .revbox:hover{
     cursor: pointer;
@@ -349,7 +350,7 @@ margin: 8px 0;
     font-size: 2rem;
 }
 .review .box-container .revbox p{
-    color: #ccc;
+    color: black;
     font-size: 1rem;
     line-height: 1.5rem;
     padding-top: 2rem;
@@ -397,9 +398,7 @@ footer{
     }
 }
 @media(max-width:768px){
-    header .fa-bars{
-        display: block;
-    }
+    
     header .navbar{
         position: absolute;
         background: #eee;
@@ -453,5 +452,8 @@ footer{
 }
        .about-btn{
         left:40%
+    }
+    header .fa-bars{
+        display: block;
     }
 }

@@ -388,9 +388,7 @@ footer{
     html{
         font-size: 55%;
     }
-    header .fa-bars{
-        display:none;
-    }
+   
     header{
         padding: 2rem;
     }
@@ -413,9 +411,7 @@ footer{
         clip-path: polygon(0 0, 100% 0, 100% 0,0 0);
 
     }
-    header .fa-bars{
-        display: none;
-    }
+  
     .about-btn{
         left:40%
     }

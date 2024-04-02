@@ -87,7 +87,7 @@ header #toggler{
     pad: .5rem 1.5rem;
     cursor: pointer;
     border: 0.1rem solid rgba(187, 170, 170, 0.3);
-    display: none;
+    
 }
 /*Main Content Style*/
 section{
